@@ -1,0 +1,1 @@
+/* composer install :ile vendor klasörünü oluşturabilirsin */

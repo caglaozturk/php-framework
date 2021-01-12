@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "BigBear\\" : "src/",
+            "BigBear\\System\\" : "system/",
+            "BigBear\\Config\\" : "config/"
+        }
+    },
+    "require": {
+        "cocur/slugify": "^4.0"
+    }
+}
